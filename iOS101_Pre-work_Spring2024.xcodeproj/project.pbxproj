@@ -60,8 +60,8 @@
 				C8FFE6F02B3E30E7002F2646 /* SceneDelegate.swift */,
 				C8FFE6F22B3E30E7002F2646 /* ViewController.swift */,
 				C8FFE6F42B3E30E7002F2646 /* Main.storyboard */,
-				C8FFE6F72B3E30EB002F2646 /* Assets.xcassets */,
 				C8FFE6F92B3E30EB002F2646 /* LaunchScreen.storyboard */,
+				C8FFE6F72B3E30EB002F2646 /* Assets.xcassets */,
 				C8FFE6FC2B3E30EB002F2646 /* Info.plist */,
 			);
 			path = "iOS101_Pre-work_Spring2024";
